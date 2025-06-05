@@ -35,5 +35,5 @@ To run this chatbot locally, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tour-itinerary-chatbot-rag.git
-cd tour-itinerary-chatbot-rag
+git clone https://github.com/your-username/tour-itinerary-chatbot.git
+cd tour-itinerary-chatbot
